@@ -5,7 +5,7 @@ sudo apt upgrade
 
 sudo apt install xorg i3
 sudo apt install blueman bluex bluetooth network-manager curl
-sudo apt install vim kitty
+sudo apt install vim xterm
 
 sudo systemctl enable bluetooth
 sudo systemctl start bluetooth
